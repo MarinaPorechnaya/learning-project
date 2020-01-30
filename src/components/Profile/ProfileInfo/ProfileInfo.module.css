@@ -1,0 +1,10 @@
+.descriptionBlock{
+    padding: 10px;
+}
+.profileImg {
+    display: block;
+    position: relative;
+    height: 315px;
+    overflow: hidden;
+    text-decoration: none;
+}
